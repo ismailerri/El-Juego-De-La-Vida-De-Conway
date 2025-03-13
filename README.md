@@ -54,4 +54,4 @@ Bloques: No cambian nunca
 Intermitentes: Cambian de forma periódicamente
 Planeadores: Se mueven por el tablero
 
-Desarrollado por Ismail Errifaiy y Juan Martínez para la asignatura Programación DAM, Escola Pia Nostra Senyora 2025.
+Desarrollado por Ismail Errifaiy para la asignatura Programación DAM, Escola Pia Nostra Senyora 2025.
